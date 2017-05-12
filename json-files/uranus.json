@@ -1,0 +1,10 @@
+{
+    "name" : "Uranus",
+    "year-discovered" : "1781",
+    "mass" : "8.681 × 10^25 kg",
+    "size" : "15,759 mi",
+    "distance-from-sun" : "1.784 billion mi",
+    "atmosphere-composition" : ["Hydrogen", "Helium", "Methane"],
+    "satellites" : "27",
+    "explorers" : ["Voyager 2"]
+}

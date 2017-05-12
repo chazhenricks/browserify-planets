@@ -1,0 +1,17 @@
+{
+    "name" : "Juipter",
+    "year-discovered" : "1610",
+    "mass" : "1.898 × 10^27 kg",
+    "size" : "43,441 mi",
+    "distance-from-sun" : "483.8 million mi",
+    "atmosphere-composition" : ["Hydrogen", "Helium"],
+    "satellites" : "67",
+    "explorers" : [
+        "Poineer 11",
+        "Voyager 1",
+        "Voyager 2",
+        "Pioneer 12",
+        "Cassini",
+        "Galileo"
+    ]
+}

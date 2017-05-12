@@ -1,0 +1,10 @@
+{
+    "name" : "Earth",
+    "year-discovered" : "16th Century",
+    "mass" : "5.972 × 10^24 kg",
+    "size" : "3,959 mi",
+    "distance-from-sun" : "92.96 million mi",
+    "atmosphere-composition" : ["Nitrogen", "Oxygen", "Argon"],
+    "satellites" : "1",
+    "explorers" : ["Over 1700 Active"]
+}

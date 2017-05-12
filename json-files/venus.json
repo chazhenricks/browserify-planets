@@ -1,0 +1,16 @@
+{
+    "name" : "Venus",
+    "year-discovered" : "1761",
+    "mass" : "4.867 × 10^24 kg",
+    "size" : "3,760 mi",
+    "distance-from-sun" : "67.24 million mi",
+    "atmosphere-composition" : ["Carbon Dioxide","Nitrogen"],
+    "moons" : "None",
+    "explorers" : [
+        "Mairner 2",
+        "Pioneer Venus",
+        "Venera 7",
+        "Venera 9"
+    ]
+}
+

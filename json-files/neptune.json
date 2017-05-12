@@ -1,0 +1,10 @@
+{
+    "name" : "Neptune",
+    "year-discovered" : "1846",
+    "mass" : "1.024 × 10^26 kg",
+    "size" : "15,299 mi",
+    "distance-from-sun" : "2.795 billion mi",
+    "atmosphere-composition" : ["Hydrogen", "Helium", "Methane"],
+    "satellites" : "14",
+    "explorers" : ["Voyager 2"]
+}

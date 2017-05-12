@@ -1,0 +1,15 @@
+{
+    "name" : "Saturn",
+    "year-discovered" : "1610",
+    "mass" : "5.683 × 10^26 kg",
+    "size" : "36,184 mi",
+    "distance-from-sun" : "888.2 million mi",
+    "atmosphere-composition" : ["hydrogen", "helium"],
+    "satellites" : "62",
+    "explorers" : [
+        "Poineer 11",
+        "Voyager 1",
+        "Voyager 2",
+        "Cassini"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name" : "Mercury",
+    "year-discovered" : "1659",
+    "mass" : "3.285 × 10^23 kg",
+    "size" : "1516 Miles",
+    "distance-from-sun" : "35.98 million mi",
+    "atmosphere-composition" : ["Hydrogen", "Helium", "Oxygen"],
+    "moons" : "None",
+    "explorers" : [
+        "Mairner 10",
+        "Mesenger"
+    ]
+}
+
